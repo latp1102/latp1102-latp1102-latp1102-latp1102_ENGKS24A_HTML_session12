@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form-select {
+    color: #FFFFFF;
+    width: 50%;
+    margin: 20px;
+}
+
